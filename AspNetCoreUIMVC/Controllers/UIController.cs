@@ -40,7 +40,11 @@ namespace AspNetCoreUIMVC.Controllers
             "components/spinners",
             "components/tables",
             "components/toasts",
-            "components/tooltips"
+            "components/tooltips",
+            "icons/coreuiiconsbrand",
+            "icons/coreuiiconsflag",
+            "icons/coreuiiconsfree",
+
         };
 
         [HttpGet("/UI/{*view}")]

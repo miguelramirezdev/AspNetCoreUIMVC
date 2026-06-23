@@ -7,10 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Views\Icons\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <None Include="wwwroot\assets\.DS_Store" />
   </ItemGroup>
 
