@@ -15,7 +15,8 @@ namespace AspNetCoreUIMVC.Controllers
             "Tables",
             "Typography",
             "Icons",
-            "Dashboard"
+            "Dashboard",
+            "Widgets",
         };
 
         [HttpGet("{view?}")]
